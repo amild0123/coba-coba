@@ -1,0 +1,67 @@
+.judul{
+
+    position: absolute;
+    text-align:right; 
+    right: 560px; 
+    top: 20px;
+    /* margin-bottom: 10px; */
+
+    filter: drop-shadow(10px 10px 18px rgb(145, 144, 144));
+}
+
+.blur{
+    filter: drop-shadow(10px 10px 18px rgb(145, 144, 144));
+}
+
+.kanan{
+
+    position: absolute;
+    text-align: left; 
+    left:900px;
+    right: 350px; 
+    top: 80px;
+    
+}
+
+.jarak{
+
+    top: 10px;
+    /* margin-right:0px;
+    margin-right: 0px; */
+}
+
+.blok{
+
+    margin-block:calc(50vh 50px);
+}
+
+.imgs img{
+    margin-left:80px; 
+    margin-top: 49px;
+    width: 40rem;
+    height: 20rem;
+}
+
+.mage img{
+    left: 20px;
+    margin-top: 49px;
+    width: 40rem;
+    height: 20rem;
+
+}
+
+.sinergi{
+    
+    text-align: left;
+    margin-left: 150px;
+}
+
+.kiri{
+
+    position: absolute;
+    text-align: left;
+    top: 5px;
+    left: 100px;
+    right: 1100px;
+}
+

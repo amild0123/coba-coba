@@ -78,6 +78,5 @@ body {
 
 .bayangan{
 
-    box-shadow: 400px, 300px, 90px rgba(0, 0, 0, 0.5);
-
+    filter: drop-shadow(200PX 250PX 90PX  rgb(92, 90, 90));
 }

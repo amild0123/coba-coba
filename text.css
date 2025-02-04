@@ -8,6 +8,7 @@
     top: 65px;
     text-shadow: 4px 2px 2px rgb(184, 179, 179);
     font-size: 65px;
+    font-family: 'Lalezar';
 }
 .sinergi2{
     position: absolute;
@@ -17,6 +18,7 @@
     bottom: 50px;
     text-shadow: 4px 2px 2px rgb(184, 179, 179);
     font-size: 65px;
+    font-family: 'Lalezar';
 }
 /* .sinergi3{
     position: absolute;
@@ -39,6 +41,7 @@
     top: 85px;
     /* margin-bottom: 10px; */
     text-shadow: 6px 4px 4px rgb(184, 179, 179);
+    font-family: 'Lalezar';
     
 }
 
@@ -72,6 +75,7 @@
     /* margin-bottom: 10px; */
     text-shadow: 4px 2px 2px rgb(184, 179, 179);
     font-size: 85px;
+    font-family: 'Lalezar';
 }
 
 .kiri{

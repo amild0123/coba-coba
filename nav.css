@@ -11,25 +11,26 @@ body {
 
     background-color: #16404D;
 
-    padding:50px;
+    padding:10px;
 
-    /* margin-top: -10px; */
+    text-align: right;
 
 }
 
 .navbar ul {
 
-    list-style: none;
+    list-style:lower-alpha;
 
-    margin: 15px;
+    margin: 5px;
 
-    padding: 15px;
+    padding: 5px;
 
 }
 
 .navbar li {
 
     display: inline;
+    font-size: 25px;
 
 }
 
@@ -39,7 +40,7 @@ body {
 
     text-decoration: none;
 
-    padding: 20px 30px;
+    padding: 15px 20px;
     
 }
 
@@ -47,7 +48,8 @@ body {
 .navbar a:hover {
 
     background-color:#3a3535;
-    size: 15px 20px;
+    size: 5px 10px;
+    border-radius: 30px;
 
 }
 
@@ -77,3 +79,11 @@ body {
     color: azure;
 }
 
+.fo{
+    position: absolute;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: black;
+}

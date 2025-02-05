@@ -20,15 +20,6 @@
     font-size: 65px;
     font-family: 'Lalezar';
 }
-/* .sinergi3{
-    position: absolute;
-    text-align:right; 
-    left:1190px; 
-    top: 170px;
-    bottom: 50px;
-    text-shadow: 4px 2px 0px rgb(184, 179, 179);
-    font-size: 65px;
-} */
 
 /* sisi kanan */
 
@@ -87,14 +78,6 @@
     right: 1100px;
 }
 
-
-/* .jarak{
-
-    top: 10px;
-    margin-right:0px;
-    margin-right: 0px;
-} */
-
 .foto img{
     margin-left: 900px;
     margin-top: 49px;
@@ -114,6 +97,8 @@
     height: 530px;
 }
 
+/* divisi */
+
 .blok{
 
     margin-block:calc(50vh 50px);
@@ -121,28 +106,28 @@
 
 .divisi{
     margin-block:calc(35px 40px);
-    color: rgb(87, 53, 119);
+    background-color: rgb(87, 53, 119);
     padding-top: 200px;
     margin-left: 200px;
     margin-right: 200px;
-    margin-top: 13rem;
+    margin-top: 3rem;
     margin-bottom: 3rem;
     height: 10rem;
     width: 80rem;
 }
 
-/* .divisi2{
+.divisi2{
     margin-block:calc(35px 40px);
     background-color: #161b1d;
     padding-top: 150px;
     margin-left: 200px;
     margin-right: 200px;
-    margin-top: 13rem;
+    margin-top: 3rem;
     margin-bottom: 3rem;
     width: 2rem; 
     height: 800rem; 
-} */
-.divisi2{
+}
+/* .divisi2{
     margin-block: calc(35px 40px);
     background-color: #161b1d;
     padding-top: 150px;
@@ -152,11 +137,11 @@
     padding-bottom: 3rem;
     width: 20em;
     height: 80rem;
-}
+} */
 
 .name{
     position: absolute;
-    top: 900px;
+    top: 100px;
     left: 5px;
     right: 100px;
     padding: 100px;

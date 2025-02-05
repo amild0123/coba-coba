@@ -106,58 +106,49 @@
 
 .divisi{
     margin-block:calc(35px 40px);
-    background-color: rgb(87, 53, 119);
-    padding-top: 200px;
+    /* background-color: rgb(0, 0, 0); */
+    padding-top: 350px;     /* ketebalan background*/
     margin-left: 200px;
     margin-right: 200px;
-    margin-top: 3rem;
+    margin-top: 14rem;        /* jarak anatara background,foto,abjad*/
     margin-bottom: 3rem;
-    height: 10rem;
+    height: 1rem;
     width: 80rem;
 }
 
-.divisi2{
-    margin-block:calc(35px 40px);
-    background-color: #161b1d;
-    padding-top: 150px;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-    width: 2rem; 
-    height: 800rem; 
+.pig {
+    position: absolute;
+    text-align: left; 
+    left:18rem;
+    right: 35rem; 
+    top: 52rem;
+    font-size: 30px;
+    
 }
-/* .divisi2{
-    margin-block: calc(35px 40px);
-    background-color: #161b1d;
-    padding-top: 150px;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-top: 150px;
-    padding-bottom: 3rem;
-    width: 20em;
-    height: 80rem;
-} */
+.pigi{
+    position: absolute;
+    text-align: left; 
+    left:25rem;
+    right: 28rem; 
+    top: 60rem;
+    font-size: 30px;
+}
+.gigi{
+    position: absolute;
+    text-align: left; 
+    left:20rem;
+    right: 28rem; 
+    top: 92rem;
+    font-size: 30px;
+}
 
 .name{
     position: absolute;
-    top: 100px;
-    left: 5px;
-    right: 100px;
-    padding: 100px;
+    left: 120px;
+    padding: 10px;
     font-size:160px;
-   
-    filter: drop-shadow(20px 15px 2px rgb(92,90,90));
+    filter: drop-shadow(20px 12px 3px rgba(156, 156, 156, 0.603));
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
 
 }
 
-.sis{
-    position: absolute;
-    top: 900px;
-    left: 5px;
-    padding: 100px;
-    font-size: 190px;
-    filter: drop-shadow(20px 15px 2px rgb(92,90,90));
-    font-family: Impact, 'Arial Narrow Bold', sans-serif;
-}

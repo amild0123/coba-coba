@@ -57,6 +57,7 @@ body {
 
     background-color: #A6CDC6;
     padding-top: 20px ;
+    
 }
 
 .container {
@@ -83,4 +84,13 @@ body {
     font-family:'Inria' Serif;
     font-size: 40px;
     color: white;
+}
+
+.footer{
+    background-color: black;
+    object-fit: cover;
+    border-radius: 30px;
+    padding-left: 250px;
+    padding-right: 250px;
+    margin-block: calc(20px 40px);
 }

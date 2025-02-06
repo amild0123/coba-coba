@@ -47,7 +47,7 @@
 }
 
 .imgs img{
-    margin-left:80px; 
+    margin-left:0px; 
     margin-top: 49px;
     width: 40rem;
     height: 20rem;
@@ -96,6 +96,7 @@
     width: 164vh;
     height: 530px;
 }
+
 
 /* divisi */
 

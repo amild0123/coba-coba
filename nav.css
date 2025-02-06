@@ -86,11 +86,26 @@ body {
     color: white;
 }
 
-.footer{
-    background-color: black;
-    object-fit: cover;
-    border-radius: 30px;
-    padding-left: 250px;
-    padding-right: 250px;
-    margin-block: calc(20px 40px);
+/* .footer{
+    background-color: #16404D;
+    border-radius: 100px 100px 0px 0px;
+    margin-top: 3rem;
+    padding-top: 20rem;
+    margin-left: 200px;
+    margin-right: 200px;
+    
 }
+.log{
+    margin-block: calc(30px 30px);
+    background-color:#96c2c2 ;
+    border-radius: 130px;
+    padding-top: 30px;
+    margin-left: 7rem;
+    margin-right:79rem ;
+    margin-top: -15rem;
+}
+.line{
+    padding-top: 10px;
+    background-color: black;
+   
+} */
